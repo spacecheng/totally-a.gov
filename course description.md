@@ -97,7 +97,7 @@ Many students are under the belief that if it is for education, copyright and in
 ##### A bit of reading material:
 -[Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 
--[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html)
+-[10 Big Myths About Copyright Explained](https://www.templetons.com/brad/copymyths.html "Craig Sunter")
 
 ##### Collaboration vs Collusion:
 
