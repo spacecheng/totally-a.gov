@@ -37,7 +37,7 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](../images/compsci.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+![alt text](https://raw.githubusercontent.com/shawnwegs/Starting-Class/master/images/compsci.jpgAnthony Catalano")
 
 
 
