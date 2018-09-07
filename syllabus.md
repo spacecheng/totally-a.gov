@@ -83,3 +83,4 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
 Research, as well as personal experience, shows that students tend to understand content better when working with and discussing content with other students. Some assignments will actually require it. However, it is important that the aid and assistance you receive, or that you provide, is authorized. If you are physically touching another student's keyboard, mouse, or sending complete or partial chunks of an assignment, you are likely engaging in collusion, not collaboration. If unsure, it's better to ask. Collusion is a form of academic dishonesty and can result in loss of credit for all parties involved.
 
 ![alt text](checky.png "yes") I understand
+  
